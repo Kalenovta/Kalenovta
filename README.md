@@ -35,5 +35,3 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kalenovta&color=blueviolet&style=flat-square)
-*Thanks for visiting! Feel free to reach out 🤝*
