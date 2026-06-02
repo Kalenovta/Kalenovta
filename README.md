@@ -8,9 +8,6 @@
 ## 🧑‍💻 Tentang Saya
 
 - 🏫 Siswa SMKN 1 Bangil jurusan **Rekayasa Perangkat Lunak**
-- 🔭 Fokus di **Web Development & UI Design**
-- 🌱 Sedang belajar: **Laravel & Python**
-- 🎨 Suka desain UI pakai **Figma**
 - 📫 Reach me: **Kalenovtakhoirulanwar@gmail.com**
 
 ---
