@@ -1,68 +1,47 @@
-## ✨ Kalenovta Khoirul Anwar (he/him)
+# Hi, I'm Kalenovta Khoirul Anwar 👋
+### he/him · Siswa RPL ·
 
-> "Code is not just syntax — it's a way to bring ideas to life."
-
-Saya seorang **siswa RPL** dari **Surabaya, Indonesia** yang suka
-membangun aplikasi web dan terus belajar teknologi baru.
-
-Ketika tidak coding, saya suka eksplorasi desain UI, scrolling inspirasi di Instagram,
-dan mencoba hal-hal baru di dunia teknologi.
+> *"Code is not just syntax — it's a way to bring ideas to life."*
 
 ---
 
-### 🧩 Tentang Saya
+## 🧑‍💻 Tentang Saya
 
-```yaml
-nama:     Kalenovta Khoirul Anwar
-pronouns: he/him
-lokasi:   Surabaya, Indonesia
-jurusan:  Rekayasa Perangkat Lunak (RPL)
-fokus:    Web Development & UI Design
-tools:    VS Code, Figma
-open_to:  Kolaborasi & Proyek Baru
-```
+- 🏫 Siswa SMKN 1 Bangil jurusan **Rekayasa Perangkat Lunak**
+- 🔭 Fokus di **Web Development & UI Design**
+- 🌱 Sedang belajar: **Laravel & Python**
+- 🎨 Suka desain UI pakai **Figma**
+- 📫 Reach me: **Kalenovtakhoirulanwar@gmail.com**
 
 ---
 
-### 🌈 Tech Stack
+## 🛠️ Tech Stack
 
-
-
-
-  
-
-
-
-
----
-
-### 📬 Hubungi Saya
-
-
-
-
-  
-    
-  
-  
-    
-  
-
-
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📈 Aktivitas GitHub
+## 📬 Hubungi Saya
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalenovta&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalenovta&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalenovta&theme=tokyo-night)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kalenovtakhoirulanwar@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalenovta_a/)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kalenovta&color=blueviolet)
+## 📊 GitHub Stats
 
-*Thanks for visiting my profile! Feel free to reach out 🤝*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalenovta&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalenovta&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kalenovta&color=blueviolet&style=flat-square)
+*Thanks for visiting! Feel free to reach out 🤝*
